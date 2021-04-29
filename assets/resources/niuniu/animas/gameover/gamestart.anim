@@ -1,0 +1,124 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "gamestart",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.3,
+  "sample": 50,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "start1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.1,
+              "value": [
+                -500,
+                36
+              ]
+            },
+            {
+              "frame": 0.26,
+              "value": [
+                -100,
+                35.5
+              ]
+            },
+            {
+              "frame": 0.3,
+              "value": [
+                0,
+                36
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.26,
+              "value": 255
+            },
+            {
+              "frame": 0.3,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "start5": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.1,
+              "value": [
+                500,
+                -34
+              ]
+            },
+            {
+              "frame": 0.3,
+              "value": [
+                0,
+                -34
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.26,
+              "value": 255
+            },
+            {
+              "frame": 0.3,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "start4": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.26,
+              "value": 0
+            },
+            {
+              "frame": 0.3,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "start2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.26,
+              "value": 0
+            },
+            {
+              "frame": 0.3,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "guang": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3,
+              "value": -90
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

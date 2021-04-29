@@ -1,0 +1,45 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "buaban8",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 15,
+  "sample": 1,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 2,
+          "value": -172
+        },
+        {
+          "frame": 15,
+          "value": -579
+        }
+      ],
+      "y": [
+        {
+          "frame": 2,
+          "value": 407
+        },
+        {
+          "frame": 15,
+          "value": -425
+        }
+      ],
+      "angle": [
+        {
+          "frame": 7,
+          "value": 0
+        },
+        {
+          "frame": 15,
+          "value": -90
+        }
+      ]
+    }
+  },
+  "events": []
+}

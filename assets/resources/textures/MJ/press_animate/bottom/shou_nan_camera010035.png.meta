@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "099741cf-f8cb-4967-8161-80ebb6e524de",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1280,
+  "height": 720,
+  "platformSettings": {},
+  "subMetas": {
+    "shou_nan_camera010035": {
+      "ver": "1.0.4",
+      "uuid": "003826a7-c9e1-481a-81bc-62c258ade5b3",
+      "rawTextureUuid": "099741cf-f8cb-4967-8161-80ebb6e524de",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -8,
+      "offsetY": -54.5,
+      "trimX": 504,
+      "trimY": 109,
+      "width": 256,
+      "height": 611,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

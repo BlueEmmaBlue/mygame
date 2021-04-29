@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f7138336-dc8a-49a0-856f-1c70fbcd94be",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1280,
+  "height": 720,
+  "platformSettings": {},
+  "subMetas": {
+    "shou_nv_camera020033": {
+      "ver": "1.0.4",
+      "uuid": "b0e55f4b-70ed-45a4-8bd3-a33ff4f2c42d",
+      "rawTextureUuid": "f7138336-dc8a-49a0-856f-1c70fbcd94be",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 270,
+      "offsetY": 116,
+      "trimX": 540,
+      "trimY": 146,
+      "width": 740,
+      "height": 196,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

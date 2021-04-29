@@ -1,0 +1,406 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "shangcheng",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3.1,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "257056ce-b221-495c-add6-beacc3b3b815"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "c85b50be-d847-4eea-b66f-bf87b36ad134"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "b7e76abb-f570-4960-92a1-45d34fea97ac"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "5884555d-d02c-4e23-aa23-bcfa01ac01e4"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "3f781482-1ea4-4eb0-9263-0e14c96d0f32"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "f346cebf-9a41-439c-89c2-884d7ce19b75"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "ae764085-f311-4997-9231-65d55b161ca2"
+            }
+          },
+          {
+            "frame": 0.7,
+            "value": {
+              "__uuid__": "47c00a12-c4ee-40d3-8cb6-72ad434e28d6"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "0ce86799-7453-4053-9b43-7c3576add91a"
+            }
+          },
+          {
+            "frame": 0.9,
+            "value": {
+              "__uuid__": "8cf8922a-de34-4e21-8e36-9b0f038cac0d"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "c7325d5c-81af-4338-9d5d-f4ea9f12c5be"
+            }
+          },
+          {
+            "frame": 1.1,
+            "value": {
+              "__uuid__": "1db5b973-1efc-4b90-86ee-6b640764a966"
+            }
+          },
+          {
+            "frame": 1.2,
+            "value": {
+              "__uuid__": "299501e0-73d8-426c-bc6d-6cabfb8f35f3"
+            }
+          },
+          {
+            "frame": 1.3,
+            "value": {
+              "__uuid__": "27e5ca0d-229a-4295-9010-21a041d69623"
+            }
+          },
+          {
+            "frame": 1.4,
+            "value": {
+              "__uuid__": "71392932-7718-4c00-a7b0-bb2f7d26be02"
+            }
+          },
+          {
+            "frame": 1.5,
+            "value": {
+              "__uuid__": "1814ce03-4da1-498d-9cd9-72d50c20a647"
+            }
+          },
+          {
+            "frame": 1.6,
+            "value": {
+              "__uuid__": "f94ee8b6-4614-404b-bfc4-a7707b21fc6b"
+            }
+          },
+          {
+            "frame": 1.7,
+            "value": {
+              "__uuid__": "7b50c5b8-13d9-4cb3-a353-aeac5c32431e"
+            }
+          },
+          {
+            "frame": 1.8,
+            "value": {
+              "__uuid__": "16b5cee7-7cef-4b02-944d-ee70391a45cf"
+            }
+          },
+          {
+            "frame": 1.9,
+            "value": {
+              "__uuid__": "046be9b3-2288-4939-935a-0c173a2929f3"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "c7a30948-e64a-434e-98e0-5c9748fb1e24"
+            }
+          },
+          {
+            "frame": 2.1,
+            "value": {
+              "__uuid__": "3a9b6671-bb4d-4ce4-8713-9ce2c770e534"
+            }
+          },
+          {
+            "frame": 2.2,
+            "value": {
+              "__uuid__": "352a94e1-6313-4b0b-a03d-5fac9049a5e1"
+            }
+          },
+          {
+            "frame": 2.3,
+            "value": {
+              "__uuid__": "b9540607-3bd6-4729-baa8-a2cf664e3ddd"
+            }
+          },
+          {
+            "frame": 2.4,
+            "value": {
+              "__uuid__": "c41d064a-ca85-48da-ba47-373d8e65e236"
+            }
+          },
+          {
+            "frame": 2.5,
+            "value": {
+              "__uuid__": "107d4cee-f01d-4839-9345-85f203aebf7f"
+            }
+          }
+        ]
+      }
+    },
+    "paths": {
+      "bottomshining": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 1.5,
+              "value": 0.8
+            },
+            {
+              "frame": 2,
+              "value": 1
+            },
+            {
+              "frame": 2.5,
+              "value": 0.8
+            },
+            {
+              "frame": 3.1,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 1.5,
+              "value": 0.8
+            },
+            {
+              "frame": 2,
+              "value": 1
+            },
+            {
+              "frame": 2.5,
+              "value": 0.8
+            },
+            {
+              "frame": 3.1,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "bottom": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 3.1,
+              "value": -180
+            }
+          ]
+        }
+      },
+      "bottomshining2": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1.5,
+              "value": 1
+            },
+            {
+              "frame": 3.1,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1.5,
+              "value": 1
+            },
+            {
+              "frame": 3.1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "star": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            },
+            {
+              "frame": 3.1,
+              "value": 255
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                141,
+                -42
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                142,
+                -41
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                141,
+                -43
+              ]
+            },
+            {
+              "frame": 1.5,
+              "value": [
+                140,
+                -41
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                141,
+                -42
+              ]
+            },
+            {
+              "frame": 2.5,
+              "value": [
+                142,
+                -43
+              ]
+            },
+            {
+              "frame": 3.1,
+              "value": [
+                141,
+                -42
+              ]
+            }
+          ]
+        }
+      },
+      "bottomshining3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1.3,
+              "value": 132.6
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            }
+          ],
+          "skewX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1.3,
+              "value": 0.41935483870967744
+            },
+            {
+              "frame": 2.7,
+              "value": 0.8688677419368944
+            },
+            {
+              "frame": 3.1,
+              "value": 1
+            }
+          ],
+          "skewY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1.3,
+              "value": 4.193548387096774
+            },
+            {
+              "frame": 2.7,
+              "value": 8.688677419368943
+            },
+            {
+              "frame": 3.1,
+              "value": 10
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

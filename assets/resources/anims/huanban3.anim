@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "huanban3",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 14,
+  "sample": 1,
+  "speed": 0.8,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 4,
+          "value": 270
+        },
+        {
+          "frame": 10,
+          "value": -35
+        },
+        {
+          "frame": 12,
+          "value": -135
+        },
+        {
+          "frame": 14,
+          "value": -200
+        }
+      ],
+      "y": [
+        {
+          "frame": 4,
+          "value": 443
+        },
+        {
+          "frame": 10,
+          "value": -230
+        },
+        {
+          "frame": 12,
+          "value": -330
+        },
+        {
+          "frame": 14,
+          "value": -400
+        }
+      ],
+      "angle": [
+        {
+          "frame": 4,
+          "value": 0
+        },
+        {
+          "frame": 14,
+          "value": -90
+        }
+      ]
+    }
+  },
+  "events": []
+}

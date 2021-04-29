@@ -1,0 +1,45 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "huaban6",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 18,
+  "sample": 1,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 5,
+          "value": 734
+        },
+        {
+          "frame": 18,
+          "value": -507
+        }
+      ],
+      "y": [
+        {
+          "frame": 5,
+          "value": 60
+        },
+        {
+          "frame": 18,
+          "value": -405
+        }
+      ],
+      "angle": [
+        {
+          "frame": 5,
+          "value": 0
+        },
+        {
+          "frame": 18,
+          "value": -30
+        }
+      ]
+    }
+  },
+  "events": []
+}
