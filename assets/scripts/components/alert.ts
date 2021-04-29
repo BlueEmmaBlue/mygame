@@ -20,7 +20,9 @@ export default class Alert extends cc.Component {
     _title3:cc.Label=null;
     _title4:cc.Label=null;
     _btnOk:cc.Node=null;
+    _btnFx:cc.Node=null;
     _btnCallback=null;
+    _detail:cc.Node=null;
     onLoad () {
         gameMgr.Instance.alert=this;
         this._alert=cc.find("Canvas/alert");
@@ -30,13 +32,26 @@ export default class Alert extends cc.Component {
         this._title3=this._alert.getChildByName("event3").getComponent(cc.Label);
         this._title4=this._alert.getChildByName("event4").getComponent(cc.Label);
         this._btnOk=this._alert.getChildByName("btn_qd");
+        this._btnFx=this._alert.getChildByName("btn_fx");
+
         this._btnOk.on(cc.Node.EventType.TOUCH_END,this.onBtnClick.bind(this))
+        this._btnFx.on(cc.Node.EventType.TOUCH_END,this.onBtnClick1.bind(this))
+
     }
 
     onBtnClick(){
         if(this._btnCallback){
             this._btnCallback();
         };
+        this._alert.active=false;
+    }
+
+    onBtnClick1(){
+        if(this._btnCallback){
+            this._btnCallback();
+        };
+        this._detail=cc.find("Canvas/detail");
+        this._detail.active=true;
         this._alert.active=false;
     }
     /**
